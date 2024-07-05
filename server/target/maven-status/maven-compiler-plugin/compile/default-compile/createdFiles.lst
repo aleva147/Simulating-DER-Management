@@ -1,0 +1,9 @@
+entities\Izvestaj.class
+entities\Satnica.class
+entities\SatnicaPK.class
+com\mycompany\praksa\resources\Resources.class
+entities\Resurs.class
+com\mycompany\praksa\JAXRSConfiguration.class
+entities\Raspored.class
+com\mycompany\praksa\resources\JavaEE8Resource.class
+entities\NasilnoRestartovanje.class

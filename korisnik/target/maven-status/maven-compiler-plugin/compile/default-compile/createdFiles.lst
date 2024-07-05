@@ -1,0 +1,7 @@
+entities\Izvestaj.class
+entities\Satnica.class
+entities\SatnicaPK.class
+entities\Resurs.class
+com\mycompany\korisnik\Korisnik.class
+com\mycompany\korisnik\KorisnikResource.class
+entities\Raspored.class

@@ -1,0 +1,7 @@
+com\mycompany\resurs\Resurs.class
+com\mycompany\resurs\ResursResource.class
+entities\Izvestaj.class
+entities\Satnica.class
+entities\SatnicaPK.class
+entities\Resurs.class
+entities\Raspored.class
